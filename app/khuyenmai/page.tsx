@@ -88,6 +88,7 @@ export default function KhuyenMai() {
               className="
               text-5xl
               font-bold
+              text-black
               mb-12
               uppercase
               "

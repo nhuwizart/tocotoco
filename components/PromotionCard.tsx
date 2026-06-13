@@ -36,6 +36,7 @@ export default function PromotionCard({
         <h3
           className="
           text-xl
+          text-black
           font-semibold
           mb-4
           uppercase
